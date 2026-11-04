@@ -7,9 +7,8 @@ from google import genai
 from google.genai import types
 
 
-# ============================================================
+
 # 1. 설정
-# ============================================================
 MODEL_NAME = "gemini-3.5-flash-lite"
 VOTES = ("찬성", "반대", "무승부")
 
